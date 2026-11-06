@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "texno-nagaralar",
+      "name": "Texno nağaralar",
+      "description": "Klassik texno üçün kick, clap, hat və perkussiya dəsti",
+      "genre": "Klassik texno",
+      "license": "CC0",
+      "sounds": [
+        {
+          "name": "Kick 1",
+          "url": "packs/texno-nagaralar/kick-1.wav"
+        },
+        {
+          "name": "Kick 2",
+          "url": "packs/texno-nagaralar/kick-2.wav"
+        },
+        {
+          "name": "Kick 3",
+          "url": "packs/texno-nagaralar/kick-3.wav"
+        },
+        {
+          "name": "Kick 4",
+          "url": "packs/texno-nagaralar/kick-4.wav"
+        },
+        {
+          "name": "Kick 5",
+          "url": "packs/texno-nagaralar/kick-5.wav"
+        },
+        {
+          "name": "Kick 6",
+          "url": "packs/texno-nagaralar/kick-6.wav"
+        },
+        {
+          "name": "Kick 7",
+          "url": "packs/texno-nagaralar/kick-7.wav"
+        },
+        {
+          "name": "Kick 8",
+          "url": "packs/texno-nagaralar/kick-8.wav"
+        },
+        {
+          "name": "Clap 1",
+          "url": "packs/texno-nagaralar/clap-1.wav"
+        },
+        {
+          "name": "Clap 2",
+          "url": "packs/texno-nagaralar/clap-2.wav"
+        },
+        {
+          "name": "Clap 3",
+          "url": "packs/texno-nagaralar/clap-3.wav"
+        },
+        {
+          "name": "Clap 4",
+          "url": "packs/texno-nagaralar/clap-4.wav"
+        },
+        {
+          "name": "Qapalı hat 1",
+          "url": "packs/texno-nagaralar/qapali-hat-1.wav"
+        },
+        {
+          "name": "Açıq hat 1",
+          "url": "packs/texno-nagaralar/aciq-hat-1.wav"
+        },
+        {
+          "name": "Qapalı hat 2",
+          "url": "packs/texno-nagaralar/qapali-hat-2.wav"
+        },
+        {
+          "name": "Açıq hat 2",
+          "url": "packs/texno-nagaralar/aciq-hat-2.wav"
+        },
+        {
+          "name": "Qapalı hat 3",
+          "url": "packs/texno-nagaralar/qapali-hat-3.wav"
+        },
+        {
+          "name": "Açıq hat 3",
+          "url": "packs/texno-nagaralar/aciq-hat-3.wav"
+        },
+        {
+          "name": "Qapalı hat 4",
+          "url": "packs/texno-nagaralar/qapali-hat-4.wav"
+        },
+        {
+          "name": "Açıq hat 4",
+          "url": "packs/texno-nagaralar/aciq-hat-4.wav"
+        },
+        {
+          "name": "Ride",
+          "url": "packs/texno-nagaralar/ride.wav"
+        },
+        {
+          "name": "Rim",
+          "url": "packs/texno-nagaralar/rim.wav"
+        },
+        {
+          "name": "Perkussiya 1",
+          "url": "packs/texno-nagaralar/perkussiya-1.wav"
+        },
+        {
+          "name": "Tom 1",
+          "url": "packs/texno-nagaralar/tom-1.wav"
+        },
+        {
+          "name": "Perkussiya 2",
+          "url": "packs/texno-nagaralar/perkussiya-2.wav"
+        },
+        {
+          "name": "Tom 2",
+          "url": "packs/texno-nagaralar/tom-2.wav"
+        },
+        {
+          "name": "Perkussiya 3",
+          "url": "packs/texno-nagaralar/perkussiya-3.wav"
+        },
+        {
+          "name": "Tom 3",
+          "url": "packs/texno-nagaralar/tom-3.wav"
+        },
+        {
+          "name": "Perkussiya 4",
+          "url": "packs/texno-nagaralar/perkussiya-4.wav"
+        },
+        {
+          "name": "Tom 4",
+          "url": "packs/texno-nagaralar/tom-4.wav"
+        }
+      ]
+    },
+    {
+      "id": "hard-techno",
+      "name": "Hard techno",
+      "description": "Distorsiyalı kick, rumble və industrial zərbələr (133–160 BPM)",
+      "genre": "Hard / Schranz",
+      "license": "CC0",
+      "sounds": [
+        {
+          "name": "Hard kick 1",
+          "url": "packs/hard-techno/hard-kick-1.wav"
+        },
+        {
+          "name": "Hard kick 2",
+          "url": "packs/hard-techno/hard-kick-2.wav"
+        },
+        {
+          "name": "Hard kick 3",
+          "url": "packs/hard-techno/hard-kick-3.wav"
+        },
+        {
+          "name": "Hard kick 4",
+          "url": "packs/hard-techno/hard-kick-4.wav"
+        },
+        {
+          "name": "Hard kick 5",
+          "url": "packs/hard-techno/hard-kick-5.wav"
+        },
+        {
+          "name": "Hard kick 6",
+          "url": "packs/hard-techno/hard-kick-6.wav"
+        },
+        {
+          "name": "Rumble 1",
+          "url": "packs/hard-techno/rumble-1.wav"
+        },
+        {
+          "name": "Rumble 2",
+          "url": "packs/hard-techno/rumble-2.wav"
+        },
+        {
+          "name": "Rumble 3",
+          "url": "packs/hard-techno/rumble-3.wav"
+        },
+        {
+          "name": "Rumble 4",
+          "url": "packs/hard-techno/rumble-4.wav"
+        },
+        {
+          "name": "Industrial clap 1",
+          "url": "packs/hard-techno/industrial-clap-1.wav"
+        },
+        {
+          "name": "Metal perc 1",
+          "url": "packs/hard-techno/metal-perc-1.wav"
+        },
+        {
+          "name": "Industrial clap 2",
+          "url": "packs/hard-techno/industrial-clap-2.wav"
+        },
+        {
+          "name": "Metal perc 2",
+          "url": "packs/hard-techno/metal-perc-2.wav"
+        },
+        {
+          "name": "Industrial clap 3",
+          "url": "packs/hard-techno/industrial-clap-3.wav"
+        },
+        {
+          "name": "Metal perc 3",
+          "url": "packs/hard-techno/metal-perc-3.wav"
+        },
+        {
+          "name": "Industrial clap 4",
+          "url": "packs/hard-techno/industrial-clap-4.wav"
+        },
+        {
+          "name": "Metal perc 4",
+          "url": "packs/hard-techno/metal-perc-4.wav"
+        },
+        {
+          "name": "Schranz loop 150",
+          "url": "packs/hard-techno/schranz-loop-150.wav"
+        }
+      ]
+    },
+    {
+      "id": "bas-ve-stab",
+      "name": "Bas və stab",
+      "description": "A tonallığında one-shot bas, stab və pad səsləri",
+      "genre": "Bütün texno",
+      "license": "CC0",
+      "sounds": [
+        {
+          "name": "Texno bas A1",
+          "url": "packs/bas-ve-stab/texno-bas-a1.wav"
+        },
+        {
+          "name": "Texno bas D2",
+          "url": "packs/bas-ve-stab/texno-bas-d2.wav"
+        },
+        {
+          "name": "Acid bas A1",
+          "url": "packs/bas-ve-stab/acid-bas-a1.wav"
+        },
+        {
+          "name": "Acid bas D2",
+          "url": "packs/bas-ve-stab/acid-bas-d2.wav"
+        },
+        {
+          "name": "Sub bas A1",
+          "url": "packs/bas-ve-stab/sub-bas-a1.wav"
+        },
+        {
+          "name": "Sub bas D2",
+          "url": "packs/bas-ve-stab/sub-bas-d2.wav"
+        },
+        {
+          "name": "Rolling bas A1",
+          "url": "packs/bas-ve-stab/rolling-bas-a1.wav"
+        },
+        {
+          "name": "Rolling bas D2",
+          "url": "packs/bas-ve-stab/rolling-bas-d2.wav"
+        },
+        {
+          "name": "Stab kvadrat Am akkord",
+          "url": "packs/bas-ve-stab/stab-kvadrat-am-akkord.wav"
+        },
+        {
+          "name": "Stab kvadrat Dm akkord",
+          "url": "packs/bas-ve-stab/stab-kvadrat-dm-akkord.wav"
+        },
+        {
+          "name": "Stab mişar Am akkord",
+          "url": "packs/bas-ve-stab/stab-misar-am-akkord.wav"
+        },
+        {
+          "name": "Stab mişar Dm akkord",
+          "url": "packs/bas-ve-stab/stab-misar-dm-akkord.wav"
+        },
+        {
+          "name": "Pad Am",
+          "url": "packs/bas-ve-stab/pad-am.wav"
+        },
+        {
+          "name": "Pad Fmaj7",
+          "url": "packs/bas-ve-stab/pad-fmaj7.wav"
+        }
+      ]
+    },
+    {
+      "id": "fx",
+      "name": "FX və keçidlər",
+      "description": "Riser, downlifter, impact və noise sweep — keçidlər üçün",
+      "genre": "Bütün texno",
+      "license": "CC0",
+      "sounds": [
+        {
+          "name": "Riser 4 san",
+          "url": "packs/fx/riser-4-san.wav"
+        },
+        {
+          "name": "Riser 8 san",
+          "url": "packs/fx/riser-8-san.wav"
+        },
+        {
+          "name": "Downlifter",
+          "url": "packs/fx/downlifter.wav"
+        },
+        {
+          "name": "Impact",
+          "url": "packs/fx/impact.wav"
+        },
+        {
+          "name": "Noise sweep",
+          "url": "packs/fx/noise-sweep.wav"
+        },
+        {
+          "name": "Reverse crash",
+          "url": "packs/fx/reverse-crash.wav"
+        }
+      ]
+    }
+  ]
+}
