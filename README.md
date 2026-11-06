@@ -6,7 +6,7 @@ Bütün səslər Sonis-in synth mühərriki ilə riyazi olaraq yaradılıb. Səs
 
 | Paket | Səs sayı | Nə üçün |
 |---|---|---|
-| Texno nağaralar | 31 | Kick, clap, hat, ride, rim, perkussiya, tom |
+| Texno nağaralar | 30 | Kick, clap, hat, ride, rim, perkussiya, tom |
 | Hard techno | 19 | Distorsiyalı kick, rumble, industrial clap, metal perc, loop |
 | Bas və stab | 14 | A tonallığında bas, stab akkordları, pad |
 | FX və keçidlər | 6 | Riser, downlifter, impact, sweep, reverse crash |
